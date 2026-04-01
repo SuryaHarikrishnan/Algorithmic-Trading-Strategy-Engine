@@ -1,7 +1,3 @@
-Alright — here’s the same README in plain text without any markdown `##` headers so you can copy it directly into GitHub without worrying about formatting symbols.
-
----
-
 # Algo Engine — SMA Backtesting Tool
 
 Overview
